@@ -14,16 +14,16 @@ const MainSection = () => {
     
     {/* Card Section */}
         <div className='row' >
-            <div className='col-md-3' style={{marginBottom: '2rem'}}>
+            <div className='col-lg-3 col-md-6' style={{marginBottom: '2rem'}}>
                 <Card />
             </div>
-            <div className='col-md-3' style={{marginBottom: '2rem'}}>
+            <div className='col-lg-3 col-md-6' style={{marginBottom: '2rem'}}>
                 <Card />
             </div>
-            <div className='col-md-3' style={{marginBottom: '2rem'}}>
+            <div className='col-lg-3 col-md-6' style={{marginBottom: '2rem'}}>
                 <Card />
             </div>
-            <div className='col-md-3' style={{marginBottom: '2rem'}}>
+            <div className='col-lg-3 col-md-6' style={{marginBottom: '2rem'}}>
                 <Card />
             </div>
         </div>
